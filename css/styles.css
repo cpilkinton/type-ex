@@ -1,7 +1,39 @@
 /* Your Website Styles */
 
+body {
+	font-family: 'Black Ops One', cursive;
+	background: #818A8C;
+}
+
+h1 {
+	color: #D92F00;
+	text-align: center;
+	font-size: 3em;
+}
+
+h2 {
+	color: #D92F00;
+}
+
+.tour {
+	text-align: right;
+}
+
+.fans {
+	width: 450px;
+	padding-left: -30px;
+}
+
+.grave {
+	width: 450px;
+	padding-top: 25px;
+}
+
+
+
+
 
 /* Show Grid */
-.showgrid {
+/*.showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
-}
+}*/
